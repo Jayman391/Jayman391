@@ -1,4 +1,4 @@
-# Jason Lobell | Software Engineer & Data Scientist 🧬
+# Software Engineer & Data Scientist 🧬
 
 I am a **Research-Driven Engineer** specializing in the intersection of **Complex Systems** and **Agentic AI**. My work focuses on building intelligent systems that don't just process data, but understand the underlying networks and dynamics within it.
 
