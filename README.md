@@ -13,9 +13,9 @@ I am a **Research-Driven Engineer** specializing in the intersection of **Comple
 ---
 
 ### Research & Education
-* 🎓 **M.S. Complex Systems & Data Science** | University of Vermont (NSF Full Scholarship, 4.0 GPA)
-* 🎓 **M.S.E. Software Engineering** | Arizona State University (Incoming Jan 2026)
-* 🔬 **Research Focus:** Semi-supervised classification, scaling LLM inference on HPC clusters (LLaMA 3.2), and multivariate Hawkes processes.
+*  **M.S. Complex Systems & Data Science** | University of Vermont (NSF Full Scholarship, 4.0 GPA)
+*  **M.S.E. Software Engineering** | Arizona State University (Incoming Jan 2026)
+*  **Research Focus:** Semi-supervised classification, scaling LLM inference on HPC clusters (LLaMA 3.2), and multivariate Hawkes processes.
 
 ---
 
